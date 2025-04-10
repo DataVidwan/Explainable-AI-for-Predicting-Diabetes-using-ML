@@ -1,0 +1,8 @@
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install xgboost
+pip install shap
+pip install lime
